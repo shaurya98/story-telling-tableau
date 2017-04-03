@@ -1,4 +1,4 @@
-# story-telling-tableau
+# analysis of association between a countrys internet use rate, urban rate and income rate.
 LIBNAME mydata "/courses/d1406ae5ba27fe300 " access=readonly;
 data new; set mydata.gapminder;
 
